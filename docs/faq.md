@@ -31,13 +31,8 @@ Since Send is an open source project, you can see all of the cool ways we use Ja
 ## How long are files available for?
 
 Files are available to be downloaded for 24 hours, after which they are removed
-from the server.  They are also removed immediately after a download completes.
+from the server. They are also removed immediately after the download limit is reached.
 
 ## Can a file be downloaded more than once?
 
-Not currently, but we're considering multiple download support in a future
-release.
-
-
-*Disclaimer: Send is an experiment and under active development.  The answers
-here may change as we get feedback from you and the project matures.*
+Yes, once a file is submitted to Send you can select the download limit.
